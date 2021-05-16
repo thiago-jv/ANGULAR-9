@@ -21,11 +21,12 @@ Instalar o angular 9 -> npm install -g @angular/cli@9.0.4
 1- git int na sua pasta que irá baixar o projeto, caso não tenha criado o repositorio local.
 2- git clone https://github.com/thiago-jv/Angula-9-Essencial.git
 3- Entrar dentro da pasta do projeto
-4- ng serve   -> nesse passo o projeto Agular irá build
-5- http://localhost:4200
+4- npm install
+5- ng serve   -> nesse passo o projeto Agular irá build
+6- http://localhost:4200
 
-6- Entrar dentro da pasta do projeto -> crud/backend
-7- npm start
-8- http://localhost:3001/products
-9- http://localhost:3001 
+7- Entrar dentro da pasta do projeto -> crud/backend
+8- npm start
+9- http://localhost:3001/products
+10- http://localhost:3001 
 ```
