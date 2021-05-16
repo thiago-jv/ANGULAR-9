@@ -4,7 +4,7 @@
 
 O maven deve está instalado, caso não esteja segue o link [maven](https://dicasdejava.com.br/como-instalar-o-maven-no-windows/)
 
-Nodejs [Nodejs] (https://nodejs.org/pt-br/download/)
+Nodejs [Nodejs](https://nodejs.org/pt-br/download/)
 
 Instalar o angular 9 -> npm install -g @angular/cli@9.0.4
 
@@ -13,6 +13,8 @@ Instalar o angular 9 -> npm install -g @angular/cli@9.0.4
  1- Angula 9 [Sobre](https://angular.io/)
  
  2- Material [Sobre](https://material.angular.io/)
+ 
+ 3- Nodejs [Sobre](https://nodejs.org/pt-br/about/)
 
 # Proceso para rodar o projeto
 ```
